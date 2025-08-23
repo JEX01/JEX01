@@ -1,6 +1,28 @@
 # 💫 About Me:
-CYBER SECURITY<br>
+👋 Hi, I'm Jeet Patel
 
+💡 A tech enthusiast passionate about building innovative solutions.
+🎓 Pursuing B.Tech in Computer Engineering
+💻 Skilled in programming and always exploring new technologies to solve real-world problems.
+
+🌟 I believe in the power of technology to bring impactful change and I’m eager to collaborate on creative, meaningful projects that push the boundaries of what’s possible.
+
+🚀 What I Do
+
+🖥️ Programming & Problem-Solving
+
+⚙️ Building Projects & Exploring Emerging Tech
+
+🤝 Collaborating with like-minded developers
+
+🎯 Goals
+
+📌 Innovate through technology-driven solutions
+
+📌 Work with professionals & organizations on impactful projects
+
+📌 Keep growing as a developer while contributing to the community
+🌟 I believe in the power of technology to bring impactful change and I’m eager to collaborate on creative, meaningful projects that push the boundaries of what’s possible.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dte-gecbh-com-jeet-patel-92b034295) 

@@ -9,9 +9,6 @@
 
 🚀 What I Do
 
-
-
-    
 🖥️ Programming & Problem-Solving
 
 ⚙️ Building Projects & Exploring Emerging Tech

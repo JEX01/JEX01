@@ -13,33 +13,34 @@
 
 🤝 Collaborating with like-minded developers
 
-👥 Involed in:-
+📈 Involed in:-
 
-▪️ Hackathons
+⚪Hackathons
 
-▪️Capture The Flag (CTF) competitions
+⚪Capture The Flag (CTF) competitions
 
-▪️Collaboration with other developers
+⚪Collaboration with other developers
 
-▪️Open-source contributions
+⚪Open-source contributions
 
-▪️Workshops, webinars, and seminars
+⚪Workshops, webinars, and seminars
 
-▪️Student tech clubs and societies
+⚪Student tech clubs and societies
 
-▪️Mentoring or peer guidance
+⚪Mentoring or peer guidance
 
-▪️Research projects or mini-projects
+⚪Research projects or mini-projects
 
-▪️internship projects
+⚪internship projects
 
-▪️College projects like Face Recognition Attendance System
+⚪College projects like Face Recognition Attendance System
 
-▪️College community platforms or Dev Heat Hackathon projects
+⚪College community platforms or Dev Heat Hackathon projects
 
-▪️Portfolio or product development initiatives
+⚪Portfolio or product development initiatives
 
-▪️Building practical applications using Python, Java, or Web Dev
+⚪Building practical applications using Python, Java, or Web Dev
+
 
 🎯 Goals
 
@@ -48,6 +49,7 @@
 📌 Work with professionals & organizations on impactful projects
 
 📌 Keep growing as a developer while contributing to the community
+
 
 🌟 I believe in the power of technology to bring impactful change and I’m eager to collaborate on creative, meaningful projects that push the boundaries of what’s possible.
 

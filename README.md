@@ -12,7 +12,6 @@
 🖥️ Programming & Problem-Solving
 
 
-
 ⚙️ Building Projects & Exploring Emerging Tech
 
 🤝 Collaborating with like-minded developers
@@ -24,6 +23,7 @@
 📌 Work with professionals & organizations on impactful projects
 
 📌 Keep growing as a developer while contributing to the community
+
 🌟 I believe in the power of technology to bring impactful change and I’m eager to collaborate on creative, meaningful projects that push the boundaries of what’s possible.
 
 ## 🌐 Socials:

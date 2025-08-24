@@ -15,7 +15,7 @@
 
 📈 Involed in:-
 
-⚪Hackathons
+⚪Hackathons like Dev Heat Hackathon projects, etc
 
 ⚪Capture The Flag (CTF) competitions
 
@@ -35,7 +35,7 @@
 
 ⚪College projects like Face Recognition Attendance System
 
-⚪College community platforms or Dev Heat Hackathon projects
+⚪College community platforms or unstop community platform
 
 ⚪Portfolio or product development initiatives
 

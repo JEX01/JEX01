@@ -5,17 +5,41 @@
 🎓 Pursuing B.Tech in Computer Engineering
 💻 Skilled in programming and always exploring new technologies to solve real-world problems.
 
-🌟 I believe in the power of technology to bring impactful change and I’m eager to collaborate on creative, meaningful projects that push the boundaries of what’s possible.
-
 🚀 What I Do
 
 🖥️ Programming & Problem-Solving
-
 
 ⚙️ Building Projects & Exploring Emerging Tech
 
 🤝 Collaborating with like-minded developers
 
+👥 involed in:- Involved in:
+
+Hackathons
+
+Capture The Flag (CTF) competitions
+
+Collaboration with other developers
+
+Open-source contributions
+
+Workshops, webinars, and seminars
+
+Student tech clubs and societies
+
+Mentoring or peer guidance
+
+Research projects or mini-projects
+
+Freelance or internship projects
+
+College projects like Face Recognition Attendance System
+
+College community platforms or Dev Heat Hackathon projects
+
+Portfolio or product development initiatives
+
+Building practical applications using Python, Java, or Web Dev
 🎯 Goals
 
 📌 Innovate through technology-driven solutions

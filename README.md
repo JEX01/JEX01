@@ -133,13 +133,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=JEX01&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="450"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=JEX01&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JEX01&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="450"/>
+
+<br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="450"/>
 
 </div>
+
 
 ---
 

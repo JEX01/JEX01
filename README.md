@@ -28,7 +28,6 @@
 - ⚪ Portfolio or product development initiatives  
 - ⚪ Building practical applications using **Python, Java, or Web Development**
 
----
 
 ## 🎯 Goals
 - 📌 Innovate through technology-driven solutions  

@@ -1,21 +1,20 @@
---
 # 💫 About Me
---
-<h4>👋 Hi, I'm <b>Jeet Patel</b></h4>
 
-<h4>💡 A tech enthusiast passionate about building innovative solutions.</h4>  
-<h4>🎓 Pursuing <b>B.Tech in Computer Engineering</b></h4>  
-<h4>💻 Skilled in programming and always exploring new technologies to solve real-world problems.</h4>
+<h2>👋 Hi, I'm <b>Jeet Patel</b></h4>
 
---
+<h3>💡 A tech enthusiast passionate about building innovative solutions.</h4>  
+<h3>🎓 Pursuing <b>B.Tech in Computer Engineering</b></h4>  
+<h3>💻 Skilled in programming and always exploring new technologies to solve real-world problems.</h4>
+
+
 ## 🚀 What I Do
 
 ### 🖥️ Programming & Problem-Solving
 ### ⚙️ Building Projects & Exploring Emerging Tech
 ### 🤝 Collaborating with like-minded developers
---
-### 📈 Involved in:
-<hr>
+
+## 📈 Involved in:
+
 <h4>⚪ Hackathons like Dev Heat Hackathon projects, etc</h4>
 <h4>⚪ Capture The Flag (CTF) competitions</h4>
 <h4>⚪ Collaboration with other developers</h4>
@@ -29,15 +28,15 @@
 <h4>⚪ College community platforms or Unstop community platform</h4>
 <h4>⚪ Portfolio or product development initiatives</h4>
 <h4>⚪ Building practical applications using Python, Java, or Web Development</h4>
-<hr>
---
+
+
 ## 🎯 Goals
 <h4>📌 Innovate through technology-driven solutions</h4>
 <h4>📌 Work with professionals & organizations on impactful projects</h4>
 <h4>📌 Keep growing as a developer while contributing to the community</h4>
 
 <h4>🌟 I believe in the power of technology to bring impactful change and I’m eager to collaborate on creative, meaningful projects that push the boundaries of what’s possible.</h4>
----
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dte-gecbh-com-jeet-patel-92b034295)
 ---
@@ -68,19 +67,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JEX01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JEX01&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JEX01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 
-### 🔝 Top Contributed Repo
+
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JEX01&limit=5&theme=dark&combine_all_yearly_contributions=true)

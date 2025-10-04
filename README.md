@@ -1,11 +1,11 @@
 # 💫 About Me
-👋 Hi, I'm **Jeet Patel**
+<h4>👋 Hi, I'm <b>Jeet Patel</b></h4>
 
-💡 A tech enthusiast passionate about building innovative solutions.  
-🎓 Pursuing **B.Tech in Computer Engineering**  
-💻 Skilled in programming and always exploring new technologies to solve real-world problems.
+<h4>💡 A tech enthusiast passionate about building innovative solutions.</h4>  
+<h4>🎓 Pursuing <b>B.Tech in Computer Engineering</b></h4>  
+<h4>💻 Skilled in programming and always exploring new technologies to solve real-world problems.</h4>
 
----
+<hr>
 
 ## 🚀 What I Do
 

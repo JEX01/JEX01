@@ -14,7 +14,6 @@
 
 ### 📈 Involved in:
 <hr>
-
 <h4>⚪ Hackathons like Dev Heat Hackathon projects, etc</h4>
 <h4>⚪ Capture The Flag (CTF) competitions</h4>
 <h4>⚪ Collaboration with other developers</h4>
@@ -28,7 +27,6 @@
 <h4>⚪ College community platforms or Unstop community platform</h4>
 <h4>⚪ Portfolio or product development initiatives</h4>
 <h4>⚪ Building practical applications using Python, Java, or Web Development</h4>
-
 <hr>
 
 ## 🎯 Goals
@@ -38,8 +36,8 @@
 <h4>📌 Keep growing as a developer while contributing to the community</h4>
 
 <h4>🌟 I believe in the power of technology to bring impactful change and I’m eager to collaborate on creative, meaningful projects that push the boundaries of what’s possible.</h4>
----
 
+---
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dte-gecbh-com-jeet-patel-92b034295)
 

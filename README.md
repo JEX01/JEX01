@@ -46,28 +46,27 @@
 
 ## 📈 Involved in:
 
-<div align="left">
+<!-- <div align="left"> -->
 
-<h3>
+ <h3> 
   
-```
-⚪ Hackathons like Dev Heat Hackathon projects, etc
-⚪ Capture The Flag (CTF) competitions
-⚪ Collaboration with other developers
-⚪ Open-source contributions
-⚪ Workshops, webinars, and seminars
-⚪ Student tech clubs and societies
-⚪ Mentoring or peer guidance
-⚪ Research projects or mini-projects
-⚪ Internship projects
-⚪ College projects like Face Recognition Attendance System
-⚪ College community platforms or unstop community platform
-⚪ Portfolio or product development initiatives
-⚪ Building practical applications using Python, Java, or Web Dev
-```
-</h3>
+- ⚪ Hackathons like Dev Heat Hackathon projects, etc
+- ⚪ Capture The Flag (CTF) competitions
+- ⚪ Collaboration with other developers
+- ⚪ Open-source contributions
+- ⚪ Workshops, webinars, and seminars
+- ⚪ Student tech clubs and societies
+- ⚪ Mentoring or peer guidance
+- ⚪ Research projects or mini-projects
+- ⚪ Internship projects
+- ⚪ College projects like Face Recognition Attendance System
+- ⚪ College community platforms or unstop community platform
+- ⚪ Portfolio or product development initiatives
+- ⚪ Building practical applications using Python, Java, or Web Dev
 
-</div>
+ </h3> 
+
+<!-- </div> -->
 
 ---
 

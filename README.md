@@ -148,7 +148,7 @@
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="450"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="450"/> -->
 
 </div>
 

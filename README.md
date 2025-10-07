@@ -136,14 +136,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- 
+
+
+
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=JEX01&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+
+</a>
+
 
 <br/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JEX01&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="450"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=tokyonight" width="450"/>
 
 <br/>
 

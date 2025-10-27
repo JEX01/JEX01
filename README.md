@@ -48,7 +48,7 @@
 ## 📈 Involved in:
 
 <p>
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VmdnE2d2JwcHZoNG5wOHR2a3ppOHBiYm91Z21jMXlrZjhlem0yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  height="300" width="300"  alt="adam-pw" />
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VmdnE2d2JwcHZoNG5wOHR2a3ppOHBiYm91Z21jMXlrZjhlem0yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  height="310" width="290"  alt="adam-pw" />
 </p>
 
 <!-- <div align="left"> -->

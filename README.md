@@ -10,7 +10,7 @@
 <div align="center">
 <h3>
 
-🎓 **Pursuing B.Tech in Computer Engineering**  
+🎓 **Pursuing B.Tech in Computer Engineering**
 💡 **A tech enthusiast passionate about building innovative solutions**  
 💻 **Skilled in programming and always exploring new technologies to solve real-world problems**
 
@@ -139,12 +139,12 @@
  
 <!-- GitHub Stats -->
 <a >
-  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" width="450" height="427"  alt="stats" />
+  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" width="450" height="327"  alt="stats" />
 </a>
- <!--  <div style="margin: px 1;"> </div>  -->
 <a >
-  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" width="450" height="427" alt="Top Languages"/>
+  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" width="450" height="327" alt="Top Languages"/>
 </a>
+
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" width="450" height="427" alt="git streak" />
 

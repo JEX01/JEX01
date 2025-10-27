@@ -136,19 +136,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- 
-<!-- GitHub Stats -->
-<a >
-  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" width="450" height="327"  alt="stats" />
-</a>
-<a >
-  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" width="450" height="327" alt="Top Languages"/>
-</a>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" width="450" height="427" alt="git streak" />
+  <!-- GitHub Stats -->
+  <a>
+    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" width="450" alt="stats" />
+  </a>
+
+  <a>
+    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" width="450" alt="Top Languages"/>
+  </a>
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" width="450" height="317" alt="git streak" />
 
 </div>
+
 
 ---
 

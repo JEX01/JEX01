@@ -47,6 +47,10 @@
 
 ## 📈 Involved in:
 
+<p>
+  <img align="right" src="https://media1.tenor.com/m/FSi7Vbd3T8QAAAAC/the-matrix-matrix.gif" alt="adam-pw" />
+</p>
+
 <!-- <div align="left"> -->
 
  <h3> 

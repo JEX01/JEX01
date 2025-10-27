@@ -139,16 +139,16 @@
 
   <!-- Row 1: Stats + Top Languages -->
   <a>
-    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" width="450" alt="stats" />
+    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" height="300" width="400" alt="stats" />
   </a>
   &nbsp;&nbsp; <!-- small horizontal space -->
   <a>
-    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" width="450" alt="Top Languages"/>
+    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" height="300" width="400"  alt="Top Languages"/>
   </a>
 
 
   <!-- Row 2: GitHub Streak -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" width="450" height="317" alt="git streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" height="300" width="400"  alt="git streak" />
 
 </div>
 

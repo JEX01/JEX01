@@ -11,7 +11,9 @@
 <h3>
 
 🎓 **Pursuing B.Tech in Computer Engineering**
+
 💡 **A tech enthusiast passionate about building innovative solutions**  
+
 💻 **Skilled in programming and always exploring new technologies to solve real-world problems**
 
 </h3>

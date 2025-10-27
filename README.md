@@ -3,7 +3,6 @@
 # 💫 About Me
 # 👋 Hi, I'm Jeet Patel
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-
 </div>
 <hr>
 

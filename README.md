@@ -165,12 +165,11 @@
 <hr>
 
 ## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=JEX01&theme=radical&no-bg=false&no-frame=false&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies"/>
+</p>
 
-<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=JEX01&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
-
-</div>
 
 ---
 

@@ -129,47 +129,34 @@
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
  
- </div>
+</div>
 
-<hr>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
-
+ 
 <!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01" />
+<a >
+  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" width="450" height="427"  alt="stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=320" />
-
+ <!--  <div style="margin: px 1;"> </div>  -->
+<a >
+  <img height=317 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" width="450" height="427" alt="Top Languages"/>
 </a>
-
-
-<br/>
-
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=tokyonight" width="450"/>
-
-<br/>
-
-<!-- Top Languages -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="450"/> -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" width="450" height="427" alt="git streak" />
 
 </div>
 
-
-<hr>
+---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=JEX01&theme=radical&no-bg=false&no-frame=false&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies"/>
+ <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" />
 </p>
-
-
 
 ---
 

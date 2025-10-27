@@ -146,7 +146,8 @@
     <img height="317" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" height="300" width="400"  alt="Top Languages"/>
   </a>
 
-  <br><br> <!-- small vertical space -->
+&nbsp;&nbsp;
+<br style="margin:1px;"> <!-- ultra small vertical gap -->
 
   <!-- Row 2: GitHub Streak -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" height="300" width="400"  alt="git streak" />

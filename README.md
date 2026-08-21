@@ -162,31 +162,6 @@
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JEX01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-<div align="center">
-  <h3>✍️ Thanks for visiting! Let's build something amazing together! 🚀</h3>
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JEX01&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</div>
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -203,3 +178,16 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=JEX01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </div>
+
+
+---
+
+<div align="center">
+  <h3>✍️ Thanks for visiting! Let's build something amazing together! 🚀</h3>
+  <br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=JEX01&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</div>
+
+

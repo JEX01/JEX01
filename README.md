@@ -82,7 +82,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/dte-gecbh-com-jeet-patel-92b034295](https://www.linkedin.com/in/jeet-patel-92b034295/)">
+  <a href="https://www.linkedin.com/in/jeet-patel-92b034295">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;

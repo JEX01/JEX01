@@ -159,11 +159,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" alt="GitHub Trophies" />
-</p>
+</div>
 
+---
 <div align="center">
   <h3>✍️ Thanks for visiting! Let's build something amazing together! 🚀</h3>
-  <br>
 </div>

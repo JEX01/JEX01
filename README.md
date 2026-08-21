@@ -162,23 +162,18 @@
 ---
 
 ## 🏆 GitHub Trophies
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEX01&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=JEX01&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JEX01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=JEX01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
-
 
 ---
 
@@ -189,5 +184,3 @@
     <img src="https://visitcount.itsvg.in/api?id=JEX01&icon=0&color=0" alt="Visitor Count" />
   </a>
 </div>
-
-

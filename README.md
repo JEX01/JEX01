@@ -2,59 +2,47 @@
 
 # 💫 About Me
 # 👋 Hi, I'm Jeet Patel
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
 </div>
-<hr>
+
+---
 
 <div align="center">
-<h3>
-
-🎓 **Pursuing B.Tech in Computer Engineering**
-
-💡 **A tech enthusiast passionate about building innovative solutions**  
-
-💻 **Skilled in programming and always exploring new technologies to solve real-world problems**
-
-</h3>
-
+  <h3>
+    🎓 <b>Pursuing B.Tech in Computer Engineering</b><br><br>
+    💡 <b>A tech enthusiast passionate about building innovative solutions</b><br><br>
+    💻 <b>Skilled in programming and always exploring new technologies to solve real-world problems</b>
+  </h3>
 </div>
 
-<hr>
+---
 
 ## 🚀 What I Do
 
 <table>
-<tr>
-<td width="33%" align="center">
-
-### 🖥️ Programming & Problem-Solving
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ Building Projects & Exploring Emerging Tech
-
-</td>
-<td width="33%" align="center">
-
-### 🤝 Collaborating with like-minded developers
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🖥️ Programming & Problem-Solving</h3>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚙️ Building Projects & Exploring Emerging Tech</h3>
+    </td>
+    <td width="33%" align="center">
+      <h3>🤝 Collaborating with like-minded developers</h3>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 📈 Involved in:
 
-<p>
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VmdnE2d2JwcHZoNG5wOHR2a3ppOHBiYm91Z21jMXlrZjhlem0yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  height="480" width="290"  alt="adam-pw" />
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VmdnE2d2JwcHZoNG5wOHR2a3ppOHBiYm91Z21jMXlrZjhlem0yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="420" width="260" alt="coding-gif" />
 </p>
 
-<!-- <div align="left"> -->
-
- <h3> 
-  
 - ⚪ Hackathons like Dev Heat Hackathon projects, etc
 - ⚪ Capture The Flag (CTF) competitions
 - ⚪ Collaboration with other developers
@@ -69,104 +57,114 @@
 - ⚪ Portfolio or product development initiatives
 - ⚪ Building practical applications using Python, Java, or Web Dev
 
- </h3> 
-
-<!-- </div> -->
-
 ---
 
 ## 🎯 Goals
 
 <div align="center">
-<h3>
-  
+
 | 🎯 Goal 1 | 🎯 Goal 2 | 🎯 Goal 3 |
-|:---:|:---:|:---:|
+|:---------:|:---------:|:---------:|
 | 📌 Innovate through technology-driven solutions | 📌 Work with professionals & organizations on impactful projects | 📌 Keep growing as a developer while contributing to the community |
 
-</h3>
 </div>
 
 ---
 
 <div align="center">
-
-### 🌟 **I believe in the power of technology to bring impactful change and I'm eager to collaborate on creative, meaningful projects that push the boundaries of what's possible.**
-
+  <h3>
+    🌟 <b>I believe in the power of technology to bring impactful change and I'm eager to collaborate on creative, meaningful projects that push the boundaries of what's possible.</b>
+  </h3>
 </div>
 
-<hr>
+---
 
-## 🌐 Socials <div align="left-side"> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dte-gecbh-com-jeet-patel-92b034295)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+## 🌐 Socials
 
-</div> 
-<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dte-gecbh-com-jeet-patel-92b034295">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## 💻 Tech Stack 
+---
 
-<div align="left-side"> 
+## 💻 Tech Stack
 
-### Languages 
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
- ### Tools & Technologies 
- ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
- ### Databases 
- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
- ### Design & Creative Tools
- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
 
-### Data Science & ML 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+</p>
+
+### Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+</p>
 
 ### Version Control
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
- 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Row 1: Stats + Top Languages -->
-  <a>
-    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true" height="300" width="400" alt="stats" />
-  </a>
-  &nbsp;&nbsp; <!-- small horizontal space -->
-  <a>
-    <img height="317" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEX01&layout=compact&langs_count=8&card_width=450&theme=dark" height="300" width="400"  alt="Top Languages"/>
-  </a>
-
-&nbsp;&nbsp;
-<br style="margin:1px;"> <!-- ultra small vertical gap -->
-
-  <!-- Row 2: GitHub Streak -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark" height="300" width="400"  alt="git streak" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JEX01&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEX01&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
-
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
- <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" />
+  <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -174,17 +172,15 @@
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=JEX01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=JEX01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
 ---
 
 <div align="center">
-
-### ✍️ Thanks for visiting! Let's build something amazing together! 🚀
-
-[![](https://visitcount.itsvg.in/api?id=JEX01&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <h3>✍️ Thanks for visiting! Let's build something amazing together! 🚀</h3>
+  <br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=JEX01&icon=0&color=0" alt="Visitor Count" />
+  </a>
 </div>

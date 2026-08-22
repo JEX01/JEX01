@@ -1,13 +1,11 @@
 <div align="center">
 
 # 💫 About Me
-# 👋 Hi, I'm Jeet Patel
-
+## 👋 Hi, I'm Jeet Patel
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
----
 
 <div align="center">
   <h3>
@@ -17,7 +15,6 @@
   </h3>
 </div>
 
----
 
 ## 🚀 What I Do
 
@@ -35,7 +32,7 @@
   </tr>
 </table>
 
----
+
 
 ## 📈 Involved in:
 
@@ -54,7 +51,6 @@
 - ⚪ Portfolio or product development initiatives
 - ⚪ Building practical applications using Python, Java, or Web Dev
 
----
 
 ## 🎯 Goals
 
@@ -64,9 +60,10 @@
 |:---------:|:---------:|:---------:|
 | 📌 Innovate through technology-driven solutions | 📌 Work with professionals & organizations on impactful projects | 📌 Keep growing as a developer while contributing to the community |
 
-</div>
 
----
+</div>
+  <br/>
+                                                                                                                                                                                                                                                                                                                                                                                                                   <br/>
 
 <div align="center">
   <h3>
@@ -74,7 +71,8 @@
   </h3>
 </div>
 
----
+  <br/>
+                                                                                                                                                                                                                                                                                                                                                                                                                   <br/>
 
 ## 🌐 Socials
 
@@ -92,7 +90,8 @@
   </a>
 </p>
 
----
+  <br/>
+                                                                                                                                                                                                                                                                                                                                                                                                                   <br/>
 
 ## 💻 Tech Stack
 
@@ -144,22 +143,28 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
+<br/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br/>
+                                           
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Streak -->
   <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </div>
-  
----
-  
-<div align="center">
-  <p>                                            </p>
+
+  <br/>
+                                                                                                                                                                                                                                                                                                                                                                                                                   <br/>
+                                           
+  <!-- GitHub Trophies -->
+<p align="center">
   <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" alt="GitHub Trophies" />
+</p>
+
 </div>
 
----
+<br/>
+                                           <br/>
+
 <div align="center">
   <h3>✍️ Thanks for visiting! Let's build something amazing together! 🚀</h3>
 </div>
+

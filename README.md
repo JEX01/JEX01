@@ -153,13 +153,12 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=JEX01&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
+  </div>
+  
 ---
-
-## 🏆 GitHub Trophies
-
+  
 <div align="center">
+  <p>                                            </p>
   <img src="https://github-trophies.vercel.app/?username=JEX01&theme=dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage&rank=SSS,SS,S,AAA,B,C,D&no-auto-hide=true" alt="GitHub Trophies" />
 </div>
 
